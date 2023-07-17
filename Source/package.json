@@ -1,0 +1,19 @@
+{
+  "name": "blockbenchplugins",
+  "version": "1.0.0",
+  "description": "Blockbench plugin to export bedrock models to Minecraft Legends",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "types": "types/index.d.ts",
+  "devDependencies": {
+    "blockbench-types": "^4.6.1"
+  },
+  "keywords": [],
+  "author": "HouseOfHow",
+  "license": "ISC"
+}
